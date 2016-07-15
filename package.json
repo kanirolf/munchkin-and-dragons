@@ -1,0 +1,6 @@
+{
+    "name" : "munchkins-and-dragons",
+    "main" : "main.js",
+    "version" : "0.1.0",
+    "description" : "A Dungeon Master app for Munckin made with Electron."
+}
